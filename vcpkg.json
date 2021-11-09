@@ -1,0 +1,8 @@
+{
+	"name": "protobuf-example",
+	"version-string": "0.2",
+	"dependencies": [
+		"fmt",
+		"protobuf"
+	]
+}
